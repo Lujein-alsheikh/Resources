@@ -1,5 +1,5 @@
 # Resources
-Resources I studies from or at least know exist.
+Resources I studied from or at least know exist.
 
 <details>
     <summary>MLOps resources</summary>
