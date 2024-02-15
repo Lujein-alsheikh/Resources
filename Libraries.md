@@ -5,11 +5,15 @@ https://catboost.ai/
 Networkx
 statsmodels:
 https://www.statsmodels.org/dev/regression.html
+scipy.stats
+scipy
+itertools
 
 <details>
 	<summary>Feature engineering</summary>
 	Featuretools: https://featuretools.alteryx.com/en/stable/ <br/>
-	feature-engine: https://feature-engine.trainindata.com/en/latest/user_guide/creation/index.html
+	feature-engine: https://feature-engine.trainindata.com/en/latest/user_guide/creation/index.html <br/>
+	category_encoders
 </details>
 
 <details>
