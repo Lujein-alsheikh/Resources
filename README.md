@@ -6,3 +6,8 @@ Resources I studied from or at least know exist.
     Course by Evidently https://learn.evidentlyai.com/
 </details>
 
+<details>
+	<summary>Websites or platforms that offer courses</summary>
+	https://www.freecodecamp.org/
+</details>	
+
