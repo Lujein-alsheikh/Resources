@@ -9,15 +9,16 @@ scipy.stats
 scipy
 itertools
 
-<details>
-	<summary>Feature engineering</summary>
+
 	
 	 | Module | Link |
 	 | -----  | ----- |
 	 | Featuretools | https://featuretools.alteryx.com/en/stable/   |
 	 | feature-engine | https://feature-engine.trainindata.com/en/latest/user_guide/creation/index.html   |
 	 | category_encoders  |  |
-
+	 
+<details>
+	<summary>Feature engineering</summary>
 </details>
 
 <details>
