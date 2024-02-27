@@ -11,9 +11,11 @@ itertools
 
 <details>
 	<summary>Feature engineering</summary>
-	Featuretools: https://featuretools.alteryx.com/en/stable/ <br/>
-	feature-engine: https://feature-engine.trainindata.com/en/latest/user_guide/creation/index.html <br/>
-	category_encoders
+	| Module | Link |
+	| -----  | ----- |
+	| Featuretools | https://featuretools.alteryx.com/en/stable/ |
+	| feature-engine | https://feature-engine.trainindata.com/en/latest/user_guide/creation/index.html |
+	| category_encoders | |
 </details>
 
 <details>
